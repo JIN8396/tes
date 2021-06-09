@@ -1789,3 +1789,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.09-04.35.00:302][ 65]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.063
 [2021.06.09-04.35.00:316][ 65]AssetCheck: New page: 애셋 저장: ThirdPersonExampleMap
 [2021.06.09-04.35.00:316][ 65]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사
+[2021.06.09-04.55.40:552][478]LogRenderer: Reallocating scene render targets to support 1168x836 Format 10 NumSamples 1 (Frame:6109).
+[2021.06.09-04.55.50:169][897]LogSlate: Window '부모 클래스 선택' being destroyed
+[2021.06.09-04.55.50:178][897]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.06.09-04.55.50:200][897]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.06.09-04.55.54:306][135]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Ring
+[2021.06.09-04.55.54:316][135]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.06.09-04.55.58:785][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_Ring" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset" SILENT=true
+[2021.06.09-04.55.58:789][401]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_Ring2DC645D147D578545D0930AB8C139005.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset'
+[2021.06.09-04.55.58:815][401]AssetCheck: New page: 애셋 저장: BP_Ring
+[2021.06.09-04.55.58:815][401]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_Ring.BP_Ring 유효성 검사
+[2021.06.09-04.58.04:544][614]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.09-04.58.11:213][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.06.09-04.58.11:272][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.06.09-04.58.11:285][964]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/ThirdPersonExampleMap2ADB6D834FB5F76E1B0147899A06683C.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.09-04.58.11:291][964]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.051
+[2021.06.09-04.58.11:300][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_GUN" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset" SILENT=true
+[2021.06.09-04.58.11:321][964]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_GUNE35CEBC44FE1F77D996EFAA3760B3A82.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset'
+[2021.06.09-04.58.11:339][964]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.06.09-04.58.11:339][964]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_GUN.BP_GUN 유효성 검사
+[2021.06.09-04.58.11:339][964]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사
+[2021.06.09-04.58.38:314][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Character/BP_Ring.BP_Ring
+[2021.06.09-04.58.48:391][927]BlueprintLog: New page: BP_Ring 컴파일
+[2021.06.09-04.58.48:467][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.06.09-04.58.48:821][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_Ring" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset" SILENT=true
+[2021.06.09-04.58.48:825][945]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_RingE21020E04C19C8CD017BD2B45AD6983B.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset'
+[2021.06.09-04.58.48:844][945]AssetCheck: New page: 애셋 저장: BP_Ring
+[2021.06.09-04.58.48:844][945]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_Ring.BP_Ring 유효성 검사
+[2021.06.09-04.59.05:372][878]LogSlate: Took 0.010309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.09-04.59.07:793][  3]BlueprintLog: New page: BP_Ring 컴파일
+[2021.06.09-04.59.07:862][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.06.09-04.59.08:225][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_Ring" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset" SILENT=true
+[2021.06.09-04.59.08:230][ 21]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_RingF5DF566C49EDC810A156F68356338918.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset'
+[2021.06.09-04.59.08:245][ 21]AssetCheck: New page: 애셋 저장: BP_Ring
+[2021.06.09-04.59.08:245][ 21]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_Ring.BP_Ring 유효성 검사
+[2021.06.09-04.59.15:959][436]BlueprintLog: New page: BP_Ring 컴파일
+[2021.06.09-04.59.16:037][436]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.06.09-04.59.16:378][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_Ring" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset" SILENT=true
+[2021.06.09-04.59.16:386][453]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_RingD7B34A9E4EAE9B061E2DF1A991D49913.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_Ring.uasset'
+[2021.06.09-04.59.16:408][453]AssetCheck: New page: 애셋 저장: BP_Ring
+[2021.06.09-04.59.16:408][453]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_Ring.BP_Ring 유효성 검사
+[2021.06.09-04.59.32:487][266]BlueprintLog: New page: BP_GUN 컴파일
+[2021.06.09-04.59.32:558][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.06.09-04.59.33:144][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_GUN" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset" SILENT=true
+[2021.06.09-04.59.33:166][292]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_GUN2DB74FA14137B982F53B27A6A53400B2.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset'
+[2021.06.09-04.59.33:182][292]AssetCheck: New page: 애셋 저장: BP_GUN
+[2021.06.09-04.59.33:182][292]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_GUN.BP_GUN 유효성 검사
+[2021.06.09-05.04.22:725][527]BlueprintLog: New page: BP_GUN 컴파일
+[2021.06.09-05.04.22:817][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.06.09-05.04.23:328][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_GUN" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset" SILENT=true
+[2021.06.09-05.04.23:349][550]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_GUNDFF3980B4116D186D79DA9BCA45DE92C.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset'
+[2021.06.09-05.04.23:367][550]AssetCheck: New page: 애셋 저장: BP_GUN
+[2021.06.09-05.04.23:367][550]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_GUN.BP_GUN 유효성 검사
+[2021.06.09-05.08.11:447][737]LogUObjectHash: Compacting FUObjectHashTables data took  13.51ms
+[2021.06.09-05.08.11:478][737]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/ThirdPersonExampleMap_Auto32DB26B6C4233C15849AF57904431C4B8.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.06.09-05.08.11:493][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.134
+[2021.06.09-05.08.11:494][737]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2021.06.09-05.09.38:903][160]BlueprintLog: New page: BP_GUN 컴파일
+[2021.06.09-05.09.39:034][160]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.06.09-05.09.39:461][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Character/BP_GUN" FILE="../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset" SILENT=true
+[2021.06.09-05.09.39:507][169]LogSavePackage: Moving '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Saved/BP_GUN23F8520F4B22722E739716A76958D8D6.tmp' to '../../../../../../Users/JIN/Documents/Unreal Projects/GUN/Content/Core/Character/BP_GUN.uasset'
+[2021.06.09-05.09.39:542][169]AssetCheck: New page: 애셋 저장: BP_GUN
+[2021.06.09-05.09.39:542][169]LogContentValidation: Display: Blueprint /Game/Core/Character/BP_GUN.BP_GUN 유효성 검사
+[2021.06.09-05.09.41:156][233]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.09-05.09.41:172][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.09-05.09.41:172][233]PIE: New page: PIE 세션: ThirdPersonExampleMap (2021. 6. 9. 오후 11:09:41)
+[2021.06.09-05.09.41:172][233]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.09-05.09.41:212][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039157s)
+[2021.06.09-05.09.41:215][233]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.09-05.09.41:216][233]LogPlayLevel: PIE: World Init took: (0.003922s)
+[2021.06.09-05.09.41:216][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043612s)
+[2021.06.09-05.09.41:285][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.06.09-05.09.41:286][233]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.09-05.09.41:286][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.09-05.09.41:286][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.09-05.09.41:286][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.09-05.09.41:286][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.09-05.09.41:286][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.09-05.09.41:286][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.09-05.09.41:286][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.09-05.09.41:286][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.09-05.09.41:287][233]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.09-05.09.41:287][233]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.09-05.09.41:289][233]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-05.09.41:289][233]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-05.09.41:325][233]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2021.06.09-05.09.41:326][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.09-05.09.41:326][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.09-05.09.41:326][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.09-05.09.41:331][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.09-05.09.41:331][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.09-05.09.41:331][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.09-05.09.41:355][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.09-05.09.41:355][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.09-05.09.41:355][233]LogInit: FAudioDevice initialized.
+[2021.06.09-05.09.41:355][233]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2021.06.09-05.09.41:379][233]LogLoad: Game class is 'BP_GM_C'
+[2021.06.09-05.09.41:382][233]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.09-14.09.41
+[2021.06.09-05.09.41:382][233]LogWorld: Bringing up level for play took: 0.001407
+[2021.06.09-05.09.41:383][233]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.06.09-05.09.41:387][233]LogBlueprintUserMessages: [BP_Ring_2] Hello
+[2021.06.09-05.09.41:388][233]PIE: 서버가 로그인했습니다.
+[2021.06.09-05.09.41:391][233]PIE: 에디터에서 플레이 총 시작 시간 0.22초입니다.
+[2021.06.09-05.09.46:906][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-05.09.46:906][467]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.09-05.09.46:906][467]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-05.09.46:907][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-05.09.46:927][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.09-05.09.46:957][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-05.09.47:017][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.09-05.09.47:018][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-05.09.47:019][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-05.09.47:055][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-05.09.47:064][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.06.09-05.09.47:099][468]LogPlayLevel: Display: Destroying online subsystem :Context_41
